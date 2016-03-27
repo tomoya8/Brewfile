@@ -44,6 +44,7 @@ tap homebrew/games
 brew jnethack
 
 tap homebrew/science
+brew lmfit
 
 tap homebrew/tex
 brew latexdiff
@@ -74,7 +75,7 @@ brew boost
 brew cabextract
 brew convmv
 brew eb
-brew emacs --with-cocoa
+brew emacs --with-cocoa --with-gnutls
 brew exiftool
 brew ffmpeg
 brew fontconfig
@@ -130,17 +131,13 @@ brew xvid
 brew xz
 
 # App Store applications
-appstore 464050545 Algodoo
 appstore 782257540 AnyMP4 PDF to Word Converter
-appstore 430173763 Degrees
 appstore 418534796 Diagrammix
-appstore 680021881 EasyGems
 appstore 510934532 FreeMan
 appstore 408980954 GarageBand
 appstore 409183694 Keynote
 appstore 409183694 Keynote
 appstore 539883307 LINE
-appstore 412699210 MiroVideoConverter
 appstore 409203825 Numbers
 appstore 409203825 Numbers
 appstore 646636356 PDF Compress Expert
